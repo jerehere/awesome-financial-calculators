@@ -9,11 +9,11 @@
 - [All-in-One Hubs](#all-in-one-hubs)
 - [Retirement Planning](#retirement-planning)
 - [Mortgage & Real Estate](#mortgage--real-estate)
+- [Insurance](#insurance)
 - [Tax Calculators](#tax-calculators)
 - [FIRE Planning](#fire-planning)
 - [Investment & Savings](#investment--savings)
-- [Salary & Career](#salary--career)
-- [Debt Management](#debt-management)
+- [Credit & Debt Management](#credit--debt-management)
 - [Crypto & Alternative Investments](#crypto--alternative-investments)
 - [Budget & Expense](#budget--expense)
 
@@ -22,6 +22,7 @@
 ## All-in-One Hubs
 
 - [CalcFi](https://calcfi.app) — 300+ free financial calculators covering retirement, tax, mortgage, FIRE, salary, crypto, and more. No signup required. Embeddable widgets available.
+- [EasyCalculators](https://easycalculators.com/) — 500+ free online calculators covering percentage, BMI, mortgage, GPA, tip, compound interest, salary, and more. No signup required.
 - [Calculator.net](https://www.calculator.net/financial-calculator.html) — Large collection of financial calculators.
 - [Bankrate](https://www.bankrate.com/calculators/) — Financial calculators with editorial content.
 - [NerdWallet](https://www.nerdwallet.com/calculators) — Calculators with product recommendations.
@@ -35,13 +36,20 @@
 
 ## Mortgage & Real Estate
 
+- [MortgageCalcTools](https://mortgagecalctools.com/) — Comprehensive US mortgage calculators: monthly payments, amortization, refinance break-even, PMI, FHA/VA/USDA loans, affordability by state, and 220+ programmatic pages of rate data.
+- [PropertyCalcTools](https://propertycalctools.com/) — Property tax calculators for all 50 US states, home value estimators, and real estate investment analysis tools.
 - [CalcFi Mortgage Calculator](https://calcfi.app/calculators/mortgage-payment) — Monthly payment, amortization, and affordability.
 - [CalcFi Home Affordability](https://calcfi.app/calculators/home-affordability) — How much house can you afford?
 - [CalcFi Refinance Calculator](https://calcfi.app/calculators/refinance-calculator) — Should you refinance your mortgage?
 - [Freddie Mac Mortgage Calculator](https://myhome.freddiemac.com/buying/calculator) — Official government-backed calculator.
 
+## Insurance
+
+- [InsuranceCalcTools](https://insurancecalctools.com/) — Free insurance calculators for life, auto, health, home, and disability. Compare premiums, estimate coverage needs, and understand costs with US-market data sourced from NAIC and AM Best.
+
 ## Tax Calculators
 
+- [TaxCalcTools](https://taxcalctools.com/) — Federal and state income tax calculators for all 50 US states, self-employment tax, capital gains, and tax bracket analysis.
 - [CalcFi Tax Bracket Calculator](https://calcfi.app/calculators/tax-bracket-calculator) — Federal + state tax estimation with all 50 states.
 - [CalcFi Self-Employment Tax](https://calcfi.app/calculators/self-employment-tax) — Calculate SE tax and deductions.
 - [IRS Tax Withholding Estimator](https://www.irs.gov/individuals/tax-withholding-estimator) — Official IRS withholding calculator.
@@ -55,6 +63,7 @@
 
 ## Investment & Savings
 
+- [CalcuWealth](https://calcuwealth.com/) — Investment calculators covering compound interest, portfolio growth, SIP returns, and wealth projections for US investors.
 - [CalcFi Investment Calculator](https://calcfi.app/calculators/investment-calculator) — Project investment growth with contributions.
 - [CalcFi HYSA Calculator](https://calcfi.app/calculators/high-yield-savings) — High-yield savings account earnings.
 - [CalcFi CD Calculator](https://calcfi.app/calculators/cd-calculator) — Certificate of deposit returns.
@@ -67,8 +76,9 @@
 - [CalcFi Hourly to Salary](https://calcfi.app/calculators/hourly-to-salary) — Convert hourly rate to annual salary.
 - [Bureau of Labor Statistics](https://www.bls.gov/bls/wages.htm) — Official US wage data by occupation.
 
-## Debt Management
+## Credit & Debt Management
 
+- [CreditScoreCalcTools](https://creditscorecalctools.com/) — FICO score breakdown, credit improvement timelines, debt payoff calculators (avalanche & snowball), balance transfer savings, and credit card comparison tools.
 - [CalcFi Debt Payoff Calculator](https://calcfi.app/calculators/debt-payoff-calculator) — Avalanche vs snowball method comparison.
 - [CalcFi Student Loan Calculator](https://calcfi.app/calculators/student-loan-calculator) — Repayment planning and payoff timeline.
 - [CalcFi Credit Card Payoff](https://calcfi.app/calculators/credit-card-payoff) — How long to pay off credit card debt.
